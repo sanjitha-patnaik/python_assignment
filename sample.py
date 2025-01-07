@@ -37,3 +37,8 @@ elif choice == 4:
     print(f"The result is: {divide(num1, num2)}")
 else:
     print("Invalid choice!")
+
+ # Change in sample.py
+print("Hello, Git!")
+print("This is a change in the main branch.")
+
