@@ -39,6 +39,6 @@ else:
     print("Invalid choice!")
 
  # Change in sample.py
-print("Hello, Git!")
+print("Hello, World!")
 print("This is a change in the main branch.")
 print("This is a change in the feature branch.")
