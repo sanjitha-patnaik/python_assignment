@@ -26,5 +26,5 @@ This repository is designed to help me learn and practice using Git.
 - **Pushing changes to remote**: `git push`
 
 ### Collaboration Tools
-- **Using remotes**: GitHub, GitLab, Bitbucket
+- **Using remotes**: GitHub
 - **Creating and reviewing pull requests**
