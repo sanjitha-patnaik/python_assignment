@@ -1,40 +1,30 @@
-# python_assignment
-This repository is solely for learning purpose. 
+# Python Assignment
 
-This repository is designed to help me learn and practice using Git
+This repository is solely for learning purposes.
 
-**What I Will Learn**
+## Purpose
 
-Core Git Commands
+This repository is designed to help me learn and practice using Git.
 
-Initializing a repository (git init)
+## What I Will Learn
 
-Staging and committing changes (git add, git commit)
+### Core Git Commands
+- **Initializing a repository**: `git init`
+- **Staging and committing changes**: `git add`, `git commit`
+- **Viewing history**: `git log`
+- **Undoing changes**: `git reset`, `git checkout`, `git revert`
 
-Viewing history (git log)
+### Branching and Merging
+- **Creating branches**: `git branch`, `git checkout -b`
+- **Switching between branches**: `git switch`
+- **Merging branches**: `git merge`
+- **Resolving merge conflicts**
 
-Undoing changes (git reset, git checkout, git revert)
+### Remote Repositories
+- **Cloning a repository**: `git clone`
+- **Fetching and pulling changes**: `git fetch`, `git pull`
+- **Pushing changes to remote**: `git push`
 
-Branching and Merging
-
-Creating branches (git branch, git checkout -b)
-
-Switching between branches (git switch)
-
-Merging branches (git merge)
-
-Resolving merge conflicts
-
-Remote Repositories
-
-Cloning a repository (git clone)
-
-Fetching and pulling changes (git fetch, git pull)
-
-Pushing changes to remote (git push)
-
-Collaboration Tools
-
-Using remotes (e.g., GitHub, GitLab, Bitbucket)
-
-Creating and reviewing pull requests
+### Collaboration Tools
+- **Using remotes**: GitHub, GitLab, Bitbucket
+- **Creating and reviewing pull requests**
